@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am flutter developer from Uzbekistan.
+I am a Flutter developer from Uzbekistan.
 
 <!--
 **ShokhrukhbekYuldoshev/ShokhrukhbekYuldoshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
