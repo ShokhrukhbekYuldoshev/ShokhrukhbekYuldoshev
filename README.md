@@ -1,18 +1,28 @@
-### Hi there 👋
-
-I am a Flutter developer from Uzbekistan.
-
-<!--
-**ShokhrukhbekYuldoshev/ShokhrukhbekYuldoshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Shokhrukhbek Yuldoshev  
+  
+Hi there! My name is Shokhrukhbek Yuldoshev and I am a Flutter developer from Uzbekistan.  
+  
+## About Me  
+  
+I have always been passionate about programming and technology. I started exploring different programming languages and frameworks. This led me to discover Flutter, which I fell in love with immediately. Since then, I have been working on developing my skills in Flutter and creating beautiful and functional apps.  
+  
+## Skills  
+  
+- Flutter  
+- Dart  
+- Firebase  
+- REST APIs  
+- Django
+- React
+- Vue
+- SQL
+  
+## Projects  
+  
+Here are some of the projects that I have worked on:  
+  
+- [Nilu](https://github.com/shokhrukhbekyuldoshev/nilu) - A mobile POS app uses Firebase and GetX.  
+  
+## Contact Me  
+  
+If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/shokhrukhbek-yuldoshev-1b77521ba) or [GitHub](https://github.com/shokhrukhbekyuldoshev).
