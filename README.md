@@ -22,7 +22,8 @@ I have always been passionate about programming and technology. I started explor
 Here are some of the projects that I have worked on:  
   
 - [Nilu](https://github.com/shokhrukhbekyuldoshev/nilu) - A mobile POS app created using Flutter, Firebase and GetX.  
-  
+- [Food Ninja](https://github.com/shokhrukhbekyuldoshev/Food-Ninja) - A food delivery app created using Flutter, Firebase, BLoC.  
+
 ## Contact Me  
   
 If you want to get in touch with me, you can find me on [LinkedIn](https://www.linkedin.com/in/shokhrukhbek-yuldoshev-1b77521ba) or [GitHub](https://github.com/shokhrukhbekyuldoshev).
