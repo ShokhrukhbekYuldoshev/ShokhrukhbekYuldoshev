@@ -31,7 +31,9 @@ I have always been passionate about programming and technology. I started explor
 Here are some of the projects that I have worked on:  
   
 - [Nilu](https://github.com/shokhrukhbekyuldoshev/nilu) - A mobile POS app created using Flutter, Firebase and GetX.  
-- [Food Ninja](https://github.com/shokhrukhbekyuldoshev/Food-Ninja) - A food delivery app created using Flutter, Firebase and BLoC.  
+- [Food Ninja](https://github.com/shokhrukhbekyuldoshev/Food-Ninja) - A food delivery app created using Flutter, Firebase and BLoC.
+- [Blog App](https://github.com/shokhrukhbekyuldoshev/Blog-App) - This is a full stack blogging app that allows users to create, edit, and delete blog posts. Users can also comment on blog posts and like them. The app is built with Django and Flutter.
+- [Task Manager](https://github.com/shokhrukhbekyuldoshev/Task-Manager) - This is a basic Node.js task manager application with authentication.
 
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shokhrukhbekyuldoshev&show_icons=true&theme=merko&locale=en" alt="shokhrukhbekyuldoshev" /></p>
