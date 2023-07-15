@@ -7,10 +7,7 @@
 When it comes to mobile app development, Flutter has become my go-to framework. Its flexibility and performance allow me to craft beautiful and responsive cross-platform applications with ease. I enjoy leveraging Flutter's widget-based architecture to design intuitive user interfaces that provide seamless experiences across various devices and screen sizes.
 
 Additionally, I specialize in Next.js, a powerful React framework for building server-side rendered and statically generated websites. With Next.js, I can create lightning-fast web applications that are both search engine optimized and user-friendly. I take pride in writing clean and modular code, ensuring maintainability and scalability throughout the development process.
-
-Collaboration and teamwork are at the core of my approach to software development. I thrive in an environment where ideas are shared, and creative problem-solving is encouraged. I believe in staying up-to-date with the latest industry trends and technologies, continuously learning and exploring new ways to enhance my skills.
-
-I'm excited about the opportunity to work on challenging projects and contribute to innovative solutions. If you're looking for a dedicated full-stack developer who can bring your ideas to life using Flutter and Next.js, I'm ready to join forces and create something amazing together. Let's build the future of web and mobile applications!</p>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
