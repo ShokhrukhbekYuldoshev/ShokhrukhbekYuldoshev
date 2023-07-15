@@ -1,8 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shokhrukhbek Yuldoshev</h1>
-<h3 align="center">A Flutter developer from Uzbekistan</h3>
+<h3 align="center">A Full Stack developer from Uzbekistan</h3>
 
 <h3 align="left">About Me:</h3>
-<p>I have always been passionate about programming and technology. I started exploring different programming languages and frameworks. This led me to discover Flutter, which I fell in love with immediately. Since then, I have been working on developing my skills in Flutter and creating beautiful and functional apps.</p>
+<p>Hello! I'm a passionate full-stack developer with expertise in Flutter and Next.js. My journey in the world of programming began with a fascination for creating dynamic and interactive user experiences. Over the years, I have honed my skills to become proficient in both front-end and back-end development.
+
+When it comes to mobile app development, Flutter has become my go-to framework. Its flexibility and performance allow me to craft beautiful and responsive cross-platform applications with ease. I enjoy leveraging Flutter's widget-based architecture to design intuitive user interfaces that provide seamless experiences across various devices and screen sizes.
+
+Additionally, I specialize in Next.js, a powerful React framework for building server-side rendered and statically generated websites. With Next.js, I can create lightning-fast web applications that are both search engine optimized and user-friendly. I take pride in writing clean and modular code, ensuring maintainability and scalability throughout the development process.
+
+Collaboration and teamwork are at the core of my approach to software development. I thrive in an environment where ideas are shared, and creative problem-solving is encouraged. I believe in staying up-to-date with the latest industry trends and technologies, continuously learning and exploring new ways to enhance my skills.
+
+I'm excited about the opportunity to work on challenging projects and contribute to innovative solutions. If you're looking for a dedicated full-stack developer who can bring your ideas to life using Flutter and Next.js, I'm ready to join forces and create something amazing together. Let's build the future of web and mobile applications!</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -14,6 +22,9 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
@@ -35,6 +46,12 @@
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"   width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
 
