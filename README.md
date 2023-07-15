@@ -58,8 +58,8 @@ I'm excited about the opportunity to work on challenging projects and contribute
 <h3 align="left">Projects:</h3>
 <p>Here are some of the projects that I have worked on:</p>
 <ul>
-  <li><a href="https://github.com/shokhrukhbekyuldoshev/Food-Ninja">Food Ninja</a> - A food delivery app created using Flutter, Firebase, and BLoC.</li>
-  <li><a href="https://github.com/shokhrukhbekyuldoshev/Nilu">Nilu</a> - A mobile POS app created using Flutter, Firebase, and GetX.</li>
+  <li><a href="https://github.com/shokhrukhbekyuldoshev/Food-Ninja">Food Ninja</a> - Food delivery app created using Flutter, Firebase, and BLoC.</li>
+  <li><a href="https://github.com/shokhrukhbekyuldoshev/Nilu">Nilu</a> - Mobile POS app created using Flutter, Firebase, and GetX.</li>
   <li><a href="https://github.com/shokhrukhbekyuldoshev/Task-Manager">Task Manager</a> - This is a basic Node.js task manager application with authentication.</li>
 </ul>
 
