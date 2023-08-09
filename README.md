@@ -55,6 +55,7 @@ Additionally, I specialize in Next.js, a powerful React framework for building s
 <h3 align="left">Projects:</h3>
 <p>Here are some of the projects that I have worked on:</p>
 <ul>
+  <li><a href="https://github.com/shokhrukhbekyuldoshev/Meloplay">Meloplay</a> - a local music player app that plays music from your device built with Flutter.</li>
   <li><a href="https://github.com/shokhrukhbekyuldoshev/Food-Ninja">Food Ninja</a> - Food delivery app created using Flutter, Firebase, and BLoC.</li>
   <li><a href="https://github.com/shokhrukhbekyuldoshev/Nilu">Nilu</a> - Mobile POS app created using Flutter, Firebase, and GetX.</li>
   <li><a href="https://github.com/shokhrukhbekyuldoshev/Nectar">Nectar</a> - Online groceries shopping app built with Flutter, Firebase and Bloc pattern.</li>
