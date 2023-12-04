@@ -69,7 +69,6 @@ Additionally, I specialize in Next.js, a powerful React framework for building s
   <li><a href="https://github.com/shokhrukhbekyuldoshev/Nilu">Nilu</a> - Mobile POS app created using Flutter, Firebase, and GetX.</li>
   <li><a href="https://github.com/shokhrukhbekyuldoshev/Nectar">Nectar</a> - Online groceries shopping app built with Flutter, Firebase and Bloc pattern.</li>
   <li><a href="https://github.com/shokhrukhbekyuldoshev/Task-Manager">Task Manager</a> - This is a basic Node.js task manager application with authentication.</li>
-</ul>
   <li><a href="https://github.com/ShokhrukhbekYuldoshev?tab=repositories">More...</a></li>
 </ul>
 
