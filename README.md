@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shokhrukhbek Yuldoshev</h1>
-<h3 align="center">Developer from Uzbekistan</h3>
+<h3 align="center">Software Engineer from Uzbekistan</h3>
 
 <h3 align="left">About Me:</h3>
 <p>Hello! I'm a passionate full-stack developer with expertise in Flutter and Next.js. My journey in the world of programming began with a fascination for creating dynamic and interactive user experiences. Over the years, I have honed my skills to become proficient in both front-end and back-end development.
