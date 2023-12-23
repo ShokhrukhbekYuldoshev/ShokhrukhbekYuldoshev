@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Shokhrukhbek from Uzbekistan<br><br>- 🔭 I’m working as Flutter developer<br>- 📚 I'm currently learning advanced algorithms<br>- ⚡ In my free time I watch/play sports.</p>
+<p align="left">I'm Shokhrukhbek from Uzbekistan.<br><br>- 🔭 I’m working as Flutter developer<br>- 📚 I'm currently learning algorithms<br>- ⚡ In my free time I watch/play sports</p>
 
 ###
 
