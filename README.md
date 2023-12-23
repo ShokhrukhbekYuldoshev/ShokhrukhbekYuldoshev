@@ -1,85 +1,107 @@
-<h1 align="center">Hi 👋, I'm Shokhrukhbek Yuldoshev</h1>
-<h3 align="center">Software Engineer from Uzbekistan</h3>
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/wU5GXcDhwLDO7bcKvP/giphy.gif?cid=ecf05e47qlzxp52u2wpty1yqaphpt7tp45i9h88j7unnpe1q&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+</div>
 
-<h3 align="left">About Me:</h3>
-<p>Hello! I'm a passionate full-stack developer with expertise in Flutter and Next.js. My journey in the world of programming began with a fascination for creating dynamic and interactive user experiences. Over the years, I have honed my skills to become proficient in both front-end and back-end development.
+###
 
-When it comes to mobile app development, Flutter has become my go-to framework. Its flexibility and performance allow me to craft beautiful and responsive cross-platform applications with ease. I enjoy leveraging Flutter's widget-based architecture to design intuitive user interfaces that provide seamless experiences across various devices and screen sizes.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shokhrukhbekyuldoshev.shokhrukhbekyuldoshev&"  />
+</div>
 
-Additionally, I specialize in Next.js, a powerful React framework for building server-side rendered and statically generated websites. With Next.js, I can create lightning-fast web applications that are both search engine optimized and user-friendly. I take pride in writing clean and modular code, ensuring maintainability and scalability throughout the development process.
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://hix-prd-cms.nyc3.digitaloceanspaces.com/logo_0fa1614bb2.webp" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"   width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-</p>
+<h1 align="center">hey there 👋</h1>
 
-<h3 align="left">Projects:</h3>
-<p>Here are some of the projects that I have worked on:</p>
-<ul>
-  <li><a href="https://github.com/shokhrukhbekyuldoshev/Meloplay">Meloplay</a> - a local music player app that plays music from your device built with Flutter.</li>
-  <li><a href="https://github.com/shokhrukhbekyuldoshev/Food-Ninja">Food Ninja</a> - Food delivery app created using Flutter, Firebase, and BLoC.</li>
-  <li><a href="https://github.com/shokhrukhbekyuldoshev/Nilu">Nilu</a> - Mobile POS app created using Flutter, Firebase, and GetX.</li>
-  <li><a href="https://github.com/shokhrukhbekyuldoshev/Nectar">Nectar</a> - Online groceries shopping app built with Flutter, Firebase and Bloc pattern.</li>
-  <li><a href="https://github.com/shokhrukhbekyuldoshev/Task-Manager">Task Manager</a> - This is a basic Node.js task manager application with authentication.</li>
-  <li><a href="https://github.com/ShokhrukhbekYuldoshev?tab=repositories">More...</a></li>
-</ul>
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-<h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shokhrukhbekyuldoshev&show_icons=true&theme=merko&locale=en" alt="shokhrukhbekyuldoshev" /></p>
+<p align="left">I'm Shokhrukhbek from Uzbekistan<br><br>- 🔭 I’m working as Flutter developer<br>- 📚 I'm currently learning advanced algorithms.<br>- ⚡ In my free time I watch/play sports.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p>
-  <a href="https://twitter.com/shokhrukhbeky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shokhrukhbeky" height="30" width="40" /></a>
-  <a href="https://fb.com/shokhrukhbekyuldoshev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shokhrukhbekyuldoshev" height="30" width="40" /></a>
-  <a href="https://instagram.com/shokhrukhbekyuldoshev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shokhrukhbekyuldoshev" height="30" width="40" /></a>
-</p>
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shokhrukhbekyuldoshev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shokhrukhbekyuldoshev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=shokhrukhbekyuldoshev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/shokhrukhbek-yuldoshev-1b77521ba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="ShokhrukhbekY" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="incrediblesy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="shokhrukhbekyuldoshev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="fu2_tikcus" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
+
+###
