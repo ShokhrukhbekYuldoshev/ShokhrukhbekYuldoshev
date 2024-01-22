@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/wU5GXcDhwLDO7bcKvP/giphy.gif?cid=ecf05e47qlzxp52u2wpty1yqaphpt7tp45i9h88j7unnpe1q&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+  <img height="150" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Shokhrukhbek from Uzbekistan.<br><br>- 🔭 I’m working as Flutter developer<br>- 📚 I'm currently learning algorithms<br>- ⚡ In my free time I watch/play sports</p>
+<p align="left">I'm Shokhrukhbek from Uzbekistan.<br><br>- 🔭 I’m working as Flutter developer<br>- 📚 I'm currently learning something useful<br>- ⚡ In my free time I watch/play sports</p>
 
 ###
 
@@ -89,9 +89,6 @@
   </a>
   <a href="https://www.instagram.com/shokhrukhbekyuldoshev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/fu2_tikcus" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 
