@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Shokhrukhbek from Uzbekistan.<br><br>- 🔭 I’m working as Flutter developer<br>- 📚 I'm currently learning something useful<br>- ⚡ In my free time I watch/play sports</p>
+<p align="left">I'm Shokhrukhbek from Uzbekistan.<br><br>- 🔭 I’m working as Flutter developer<br>- 📚 I'm currently learning Native Development<br>- ⚡ In my free time I watch/play sports</p>
 
 ###
 
