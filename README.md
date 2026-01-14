@@ -25,7 +25,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -36,6 +36,8 @@
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
 </div>
 
 ###
@@ -50,19 +52,3 @@
     <img src="https://leetcard.jacoblin.cool/ShokhrukhbekYuldoshev?theme=dark&font=Roboto&ext=heatmap" height="250" alt="leetcode stats"  />
   </div>
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/shokhrukhbek-yuldoshev-1b77521ba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.twitter.com/ShokhrukhbekY" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/shokhrukhbekyuldoshev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
