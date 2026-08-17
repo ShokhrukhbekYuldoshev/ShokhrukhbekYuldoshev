@@ -27,8 +27,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
