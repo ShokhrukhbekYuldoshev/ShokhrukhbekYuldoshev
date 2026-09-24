@@ -33,16 +33,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
 </div>
-
-###
-
-<h3 align="left">Leetcode</h3>
-
-###
-
-<div align="center">
-
-  <div>
-    <img src="https://leetcard.jacoblin.cool/incrediblesy?theme=dark&font=Roboto&ext=heatmap" height="250" alt="leetcode stats"  />
-  </div>
-</div>
